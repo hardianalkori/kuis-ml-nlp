@@ -1,0 +1,12 @@
+Diberikan data train yang bisa anda train menggunakan arsitektur CNN. Untuk dataset 0.zip, berilah nama kategori 0. Adapun untuk dataset 1.zip, berilah nama kategori 1. Dan untuk dataset 2.zip, berilah nama kategori 2.
+
+Trainlah dataset ini sebebas-bebasnya. Anda diberi waktu 1 hari hingga esok 16 November 2022 pukul 21:00 untuk mentrain dataset ini dengan akurasi setinggi-tingginya. Soal test (dataset test) akan diupload pada esok hari pukul 21:00. Pengerjaan soal test besok adalah 1 jam.
+
+Prediksikan kategori dari dataset besok dengan otak CNN yang sudah anda training hari ini. Uploadlah jawaban anda, hanya kategorinya saja besok, dengan format, NIM.csv. Contoh isi format jawaban dapat anda lihat di contoh_jawaban.csv
+
+
+Penilaian:
+Jika nilai akurasi anda 33%, maka nilai kuis anda adalah 0.
+Jika nilai akurasi anda 100%, maka nilai kuis anda adalah 120.
+
+Final Grade: 114/120
