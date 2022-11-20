@@ -5,3 +5,5 @@ Diberikan dataset kalimat.csv sebagai berikut. Trainlah seluruh kalimat yang ada
 
 
 2. Carilah kalimat yang paling mirip dengan kalimat ke-0. Tampilkan hingga sampai print.
+
+Final Grade: 75/120
