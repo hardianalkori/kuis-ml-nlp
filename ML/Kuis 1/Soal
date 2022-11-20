@@ -1,0 +1,12 @@
+Diberikan data pergerakan harga suatu komoditas sebagai berikut. Ini adalah data historis sebenarnya diambil dari suatu pasar. h_0 sampai h_28 merupakan pergerakan harga. Adapun kolom status adalah jenis pergerakannya, 1 adalah naik, 0 adalah turun.
+
+Prediksikan status dari data test_soal.csv. Anda dibebaskan menggunakan segala jenis macam algoritma klasifikasi yang bisa anda temui dan anda tahu. Manfaatkan data train.csv sebaik-baiknya. Uploadlah jawaban anda, hanya statusnya saja, dengan format, NIM.csv. Contoh isi format jawaban dapat anda lihat di contoh_jawaban.csv
+
+
+Penilaian:
+1. Jika akurasi anda di bawah 50%, nilai kuis anda 0.
+2. Jika akurasi anda mencapai 52%, nilai kuis anda 100.
+3. Jika akurasi anda di atas 52%, misal, 52.5%, nilai kuis anda 110.
+4. Jika akurasi anda di antara 50%~52%, nilai kuis anda akan menyesuaikan.
+
+Final Grade: 86/100
