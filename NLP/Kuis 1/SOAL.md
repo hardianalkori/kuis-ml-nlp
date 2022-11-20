@@ -26,3 +26,5 @@ Pertama, gunakan baris ke-0 sampai baris ke-(-2) sebagai mode
 training TF-IDF, lebih tepatnya sampai kalimat "Pemutaran homogenat...".
 
 Gunakan TF-IDF untuk mencari 5 kata terpenting dari kalimat pada baris ke-(-1).
+
+Final Grade: 98/100
